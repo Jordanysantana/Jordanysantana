@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Jordany Santana and I'm a Web Developer.</h1>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">! My name is Jordany Santana and I'm a Web Developer.</h1>
 
 ###
 
